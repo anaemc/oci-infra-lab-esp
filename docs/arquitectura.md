@@ -76,7 +76,7 @@ The application VM can access supported OCI services through the
  Service Gateway without requiring those services to be exposed  
  through the public Internet.
 
-'''text
+```text
 web-vm
    │
    ▼
