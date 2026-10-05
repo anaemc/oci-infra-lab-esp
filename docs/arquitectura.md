@@ -53,6 +53,7 @@ app-subnet
    │
    ▼
 web-vm
+'''
 
 ### **Administrative Access**
 
@@ -67,6 +68,7 @@ OCI Bastion Service
      │
      ▼
 web-vm
+'''
 
 ### **Application → OCI Services**
 
@@ -81,6 +83,7 @@ web-vm
 Service Gateway
    ├──► Object Storage
    └──► Autonomous Database
+'''
 
 The Autonomous Database used by this laboratory is an  
  **Autonomous Database Serverless / Always Free** deployment.  
