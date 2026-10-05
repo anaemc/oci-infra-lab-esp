@@ -12,7 +12,7 @@ and layered security.
 
 ## 2. Architecture Diagram
 
-![OCI Lab Architecture](../assets/architecture.png)
+![OCI Lab Architecture](../assets/OCI%20Architecture.png)
 
 The diagram represents the current state of the laboratory and its
 main OCI resources.
